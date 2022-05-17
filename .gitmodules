@@ -1,0 +1,3 @@
+[submodule "bgmi-dockerlized"]
+	path = bgmi-dockerlized
+	url = https://git.tkmhome.com/fukhak/bgmi-dockerlized.git
